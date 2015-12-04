@@ -17,3 +17,6 @@
 		$temperatura = ($haceFrio<20) ? $respuesta = "Hace frio" : $respuesta = "No hace frio";
 		echo $respuesta;
 		?>
+		
+		
+		editado
